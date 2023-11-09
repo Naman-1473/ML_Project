@@ -1,3 +1,0 @@
-[build]
-  command = "streamlit run app.py"
-  publish = "C:\Users\DELL\OneDrive\Desktop\ML Final\"
